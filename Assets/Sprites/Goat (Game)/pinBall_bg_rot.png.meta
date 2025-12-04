@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: 1e8f13c6e96fe5044a04d44f9fa2bafb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -936079348378379684
+    second: pinBall_bg_rot_0
+  - first:
+      213: 552277364326093036
+    second: pinBall_bg_rot_1
+  - first:
+      213: 8244975259894985497
+    second: pinBall_bg_rot_2
+  - first:
+      213: -7591497800451311657
+    second: pinBall_bg_rot_3
+  - first:
+      213: 213679256006133455
+    second: pinBall_bg_rot_4
+  - first:
+      213: 6972499413836314959
+    second: pinBall_bg_rot_5
+  - first:
+      213: 8915391329957360126
+    second: pinBall_bg_rot_6
+  - first:
+      213: -5105948472121778062
+    second: pinBall_bg_rot_7
+  - first:
+      213: 3599762226291290840
+    second: pinBall_bg_rot_8
+  - first:
+      213: -32255131261960484
+    second: pinBall_bg_rot_9
+  - first:
+      213: -5359305577820800884
+    second: pinBall_bg_rot_10
+  - first:
+      213: 7715080183657347143
+    second: pinBall_bg_rot_11
+  - first:
+      213: 2046059128041742254
+    second: pinBall_bg_rot_12
+  - first:
+      213: -886234543209312243
+    second: pinBall_bg_rot_13
+  - first:
+      213: -6790687836465504966
+    second: pinBall_bg_rot_14
+  - first:
+      213: -7234221803285616821
+    second: pinBall_bg_rot_15
+  - first:
+      213: 2439822864993730114
+    second: pinBall_bg_rot_16
+  - first:
+      213: -5964260939873002953
+    second: pinBall_bg_rot_17
+  - first:
+      213: 6083422644591920421
+    second: pinBall_bg_rot_18
+  - first:
+      213: -7560959558962164591
+    second: pinBall_bg_rot_19
+  - first:
+      213: -4423882331524398762
+    second: pinBall_bg_rot_20
+  - first:
+      213: 8085344439279892558
+    second: pinBall_bg_rot_21
+  - first:
+      213: -3537370852378786245
+    second: pinBall_bg_rot_22
+  - first:
+      213: 2051635658993151065
+    second: pinBall_bg_rot_23
+  - first:
+      213: 4637538650209522571
+    second: pinBall_bg_rot_24
+  - first:
+      213: 8544770946497154576
+    second: pinBall_bg_rot_25
+  - first:
+      213: -854151818491344296
+    second: pinBall_bg_rot_26
+  - first:
+      213: -2392291228679693654
+    second: pinBall_bg_rot_27
+  - first:
+      213: 8103991188885871625
+    second: pinBall_bg_rot_28
+  - first:
+      213: 5431916183045876114
+    second: pinBall_bg_rot_29
+  - first:
+      213: 3671111019963149621
+    second: pinBall_bg_rot_30
+  - first:
+      213: -840065388369964553
+    second: pinBall_bg_rot_31
+  - first:
+      213: 8092105851818039777
+    second: pinBall_bg_rot_32
+  - first:
+      213: -2576592410450994067
+    second: pinBall_bg_rot_33
+  - first:
+      213: -8300776774363994635
+    second: pinBall_bg_rot_34
+  - first:
+      213: 2839388040617026618
+    second: pinBall_bg_rot_35
+  - first:
+      213: 3252414507102267001
+    second: pinBall_bg_rot_36
+  - first:
+      213: 4292123454601713287
+    second: pinBall_bg_rot_37
+  - first:
+      213: 6179167378383561694
+    second: pinBall_bg_rot_38
+  - first:
+      213: 1719941761060277780
+    second: pinBall_bg_rot_39
+  - first:
+      213: 5022458340462171010
+    second: pinBall_bg_rot_40
+  - first:
+      213: -7330077778081387669
+    second: pinBall_bg_rot_41
+  - first:
+      213: 6997354846942440967
+    second: pinBall_bg_rot_42
+  - first:
+      213: 4680302781545201258
+    second: pinBall_bg_rot_43
+  - first:
+      213: -806148275288490956
+    second: pinBall_bg_rot_44
+  - first:
+      213: -115871840404188958
+    second: pinBall_bg_rot_45
+  - first:
+      213: 7783551381954139456
+    second: pinBall_bg_rot_46
+  - first:
+      213: -8956284073587594043
+    second: pinBall_bg_rot_47
+  - first:
+      213: 1166407420137857750
+    second: pinBall_bg_rot_48
+  - first:
+      213: -7604320763096872616
+    second: pinBall_bg_rot_49
+  - first:
+      213: -5707571984639134679
+    second: pinBall_bg_rot_50
+  - first:
+      213: -9093702676650097741
+    second: pinBall_bg_rot_51
+  - first:
+      213: 6503681119932874872
+    second: pinBall_bg_rot_52
+  - first:
+      213: -5667956681250347429
+    second: pinBall_bg_rot_53
+  - first:
+      213: -3176759142321735685
+    second: pinBall_bg_rot_54
+  - first:
+      213: -7172275097988707631
+    second: pinBall_bg_rot_55
+  - first:
+      213: -95704129676508730
+    second: pinBall_bg_rot_56
+  - first:
+      213: -3208554300985702211
+    second: pinBall_bg_rot_57
+  - first:
+      213: -1665461512329638947
+    second: pinBall_bg_rot_58
+  - first:
+      213: 7420415099683386504
+    second: pinBall_bg_rot_59
+  - first:
+      213: 4901789256879561028
+    second: pinBall_bg_rot_60
+  - first:
+      213: -573335418189699413
+    second: pinBall_bg_rot_61
+  - first:
+      213: 4092241395086550953
+    second: pinBall_bg_rot_62
+  - first:
+      213: -3222877662611439034
+    second: pinBall_bg_rot_63
+  - first:
+      213: -6982576397027500084
+    second: pinBall_bg_rot_64
+  - first:
+      213: -2305874165908878833
+    second: pinBall_bg_rot_65
+  - first:
+      213: 8954261363086148152
+    second: pinBall_bg_rot_66
+  - first:
+      213: 8892044040385935556
+    second: pinBall_bg_rot_67
+  - first:
+      213: -5216055853784125943
+    second: pinBall_bg_rot_68
+  - first:
+      213: -1595267733838329083
+    second: pinBall_bg_rot_69
+  - first:
+      213: 3319461500136685894
+    second: pinBall_bg_rot_70
+  - first:
+      213: -2416488562899768016
+    second: pinBall_bg_rot_71
+  - first:
+      213: -1368217548232934299
+    second: pinBall_bg_rot_72
+  - first:
+      213: 442508527028126341
+    second: pinBall_bg_rot_73
+  - first:
+      213: 1603802622961791866
+    second: pinBall_bg_rot_74
+  - first:
+      213: -8022503300080684323
+    second: pinBall_bg_rot_75
+  - first:
+      213: 159852990844124022
+    second: pinBall_bg_rot_76
+  - first:
+      213: 5277349822680956242
+    second: pinBall_bg_rot_77
+  - first:
+      213: 7262111376782789756
+    second: pinBall_bg_rot_78
+  - first:
+      213: 4241918224387088389
+    second: pinBall_bg_rot_79
+  - first:
+      213: 5882905583436221746
+    second: pinBall_bg_rot_80
+  - first:
+      213: 326085774455714058
+    second: pinBall_bg_rot_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinBall_bg_rot_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 971
+        width: 99
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ad35ecac06203f0800000000000000
+      internalID: -936079348378379684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 815
+        width: 57
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0552636551aa700800000000000000
+      internalID: 552277364326093036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 973
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913bceba0590c6270800000000000000
+      internalID: 8244975259894985497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 874
+        width: 105
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7b0f2d8f495a690800000000000000
+      internalID: -7591497800451311657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 957
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc68d16b62427f200800000000000000
+      internalID: 213679256006133455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 679
+        width: 66
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f493556664b43c060800000000000000
+      internalID: 6972499413836314959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 953
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1b4b7cd25d9bb70800000000000000
+      internalID: 8915391329957360126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 950
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270abb5cae60429b0800000000000000
+      internalID: -5105948472121778062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 910
+        width: 89
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d236f52cace4f130800000000000000
+      internalID: 3599762226291290840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 903
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde72f601286d8ff0800000000000000
+      internalID: -32255131261960484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 900
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88b837c8fbef95b0800000000000000
+      internalID: -5359305577820800884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 849
+        width: 99
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7483d800d88711b60800000000000000
+      internalID: 7715080183657347143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 880
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf9f5cbfef056c10800000000000000
+      internalID: 2046059128041742254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 854
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d001450e06673b3f0800000000000000
+      internalID: -886234543209312243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 863
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d58ee2461a2c1a0800000000000000
+      internalID: -6790687836465504966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 801
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4766c43991ea9b90800000000000000
+      internalID: -7234221803285616821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 607
+        width: 67
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eb3de08fdfbd120800000000000000
+      internalID: 2439822864993730114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 745
+        width: 69
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ad1237640ba3da0800000000000000
+      internalID: -5964260939873002953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 738
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250875f9a8ac6450800000000000000
+      internalID: 6083422644591920421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 731
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c47fe3753121790800000000000000
+      internalID: -7560959558962164591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 679
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6518c5d45763b92c0800000000000000
+      internalID: -4423882331524398762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 563
+        width: 59
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4835f5fde9e43070800000000000000
+      internalID: 8085344439279892558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 629
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36442993fbb8eec0800000000000000
+      internalID: -3537370852378786245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 655
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cafc603cfd87c10800000000000000
+      internalID: 2051635658993151065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_24
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 655
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8312e5e4d8db5040800000000000000
+      internalID: 4637538650209522571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 579
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e8a0957ef159670800000000000000
+      internalID: 8544770946497154576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 486
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ac19252717524f0800000000000000
+      internalID: -854151818491344296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 485
+        width: 258
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa934b6dcfdcced0800000000000000
+      internalID: -2392291228679693654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c107cac09277070800000000000000
+      internalID: 8103991188885871625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_29
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 519
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299252c2dfa026b40800000000000000
+      internalID: 5431916183045876114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 499
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dece3b50862f230800000000000000
+      internalID: 3671111019963149621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19b1aeafc7754f0800000000000000
+      internalID: -840065388369964553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9597ef56fec4070800000000000000
+      internalID: 8092105851818039777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_33
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cd914aada1e3cd0800000000000000
+      internalID: -2576592410450994067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5a83cc087bdcc80800000000000000
+      internalID: -8300776774363994635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 455
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3468741168876720800000000000000
+      internalID: 2839388040617026618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 455
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976682e13c5e22d20800000000000000
+      internalID: 3252414507102267001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_37
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 455
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78658a39a8fa09b30800000000000000
+      internalID: 4292123454601713287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 455
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3eb34fdffc0c550800000000000000
+      internalID: 6179167378383561694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 455
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e8b564be57ed710800000000000000
+      internalID: 1719941761060277780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_40
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 455
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2831272204b53b540800000000000000
+      internalID: 5022458340462171010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 79
+        width: 20
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b6975e815564a90800000000000000
+      internalID: -7330077778081387669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 399
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eac53e8299b1160800000000000000
+      internalID: 6997354846942440967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 242
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e364f1596c3f040800000000000000
+      internalID: 4680302781545201258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 361
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cb22f2a6cffc4f0800000000000000
+      internalID: -806148275288490956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0dc31dc27546ef0800000000000000
+      internalID: -115871840404188958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 377
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045906c2ebab40c60800000000000000
+      internalID: 7783551381954139456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 380
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cca2566613e4b380800000000000000
+      internalID: -8956284073587594043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 361
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d262b46e59ef2010800000000000000
+      internalID: 1166407420137857750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 345
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859cb7d2e86087690800000000000000
+      internalID: -7604320763096872616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 346
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924fc9d1581aac0b0800000000000000
+      internalID: -5707571984639134679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 329
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b38049989dacc180800000000000000
+      internalID: -9093702676650097741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 332
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87083064587b14a50800000000000000
+      internalID: 6503681119932874872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 313
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5665c3bd6f5751b0800000000000000
+      internalID: -5667956681250347429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 313
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf730f82462e9e3d0800000000000000
+      internalID: -3176759142321735685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_55
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 297
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dac0097cc5f67c90800000000000000
+      internalID: -7172275097988707631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_56
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 297
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c10813e99dfbaef0800000000000000
+      internalID: -95704129676508730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_57
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 281
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db80237ecdce873d0800000000000000
+      internalID: -3208554300985702211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_58
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 281
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbc18a149713e8e0800000000000000
+      internalID: -1665461512329638947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 265
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b296d73c9af660800000000000000
+      internalID: 7420415099683386504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 266
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449d12cbb57a60440800000000000000
+      internalID: 4901789256879561028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 249
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba627ad897a1b08f0800000000000000
+      internalID: -573335418189699413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 249
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a768410edf8ac830800000000000000
+      internalID: 4092241395086550953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 233
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642018567d90643d0800000000000000
+      internalID: -3222877662611439034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 234
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf162e13c7e81f90800000000000000
+      internalID: -6982576397027500084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 217
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a4044c9a3efffd0800000000000000
+      internalID: -2305874165908878833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_66
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 218
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83241cc944de34c70800000000000000
+      internalID: 8954261363086148152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_67
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 201
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8355251f2e66b70800000000000000
+      internalID: 8892044040385935556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 201
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ea99a36d8dc97b0800000000000000
+      internalID: -5216055853784125943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_69
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 151
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b8ceab2787cd9e0800000000000000
+      internalID: -1595267733838329083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 163
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6418b39a5a8111e20800000000000000
+      internalID: 3319461500136685894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_71
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 25
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03da0948478e67ed0800000000000000
+      internalID: -2416488562899768016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 129
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cbe16936d130de0800000000000000
+      internalID: -1368217548232934299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 81
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c79b292b142600800000000000000
+      internalID: 442508527028126341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 91
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a733a7ffcf9d14610800000000000000
+      internalID: 1603802622961791866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ba4de0c75aa090800000000000000
+      internalID: -8022503300080684323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 57
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b3c8fb279e73200800000000000000
+      internalID: 159852990844124022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_77
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 48
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d7e5004b9ec3940800000000000000
+      internalID: 5277349822680956242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_78
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c067422d338c460800000000000000
+      internalID: 7262111376782789756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 172
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50029d286225eda30800000000000000
+      internalID: 4241918224387088389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_80
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dc0eb857744a150800000000000000
+      internalID: 5882905583436221746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_bg_rot_81
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01bdb0c84d768400800000000000000
+      internalID: 326085774455714058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pinBall_bg_rot_0: -936079348378379684
+      pinBall_bg_rot_1: 552277364326093036
+      pinBall_bg_rot_10: -5359305577820800884
+      pinBall_bg_rot_11: 7715080183657347143
+      pinBall_bg_rot_12: 2046059128041742254
+      pinBall_bg_rot_13: -886234543209312243
+      pinBall_bg_rot_14: -6790687836465504966
+      pinBall_bg_rot_15: -7234221803285616821
+      pinBall_bg_rot_16: 2439822864993730114
+      pinBall_bg_rot_17: -5964260939873002953
+      pinBall_bg_rot_18: 6083422644591920421
+      pinBall_bg_rot_19: -7560959558962164591
+      pinBall_bg_rot_2: 8244975259894985497
+      pinBall_bg_rot_20: -4423882331524398762
+      pinBall_bg_rot_21: 8085344439279892558
+      pinBall_bg_rot_22: -3537370852378786245
+      pinBall_bg_rot_23: 2051635658993151065
+      pinBall_bg_rot_24: 4637538650209522571
+      pinBall_bg_rot_25: 8544770946497154576
+      pinBall_bg_rot_26: -854151818491344296
+      pinBall_bg_rot_27: -2392291228679693654
+      pinBall_bg_rot_28: 8103991188885871625
+      pinBall_bg_rot_29: 5431916183045876114
+      pinBall_bg_rot_3: -7591497800451311657
+      pinBall_bg_rot_30: 3671111019963149621
+      pinBall_bg_rot_31: -840065388369964553
+      pinBall_bg_rot_32: 8092105851818039777
+      pinBall_bg_rot_33: -2576592410450994067
+      pinBall_bg_rot_34: -8300776774363994635
+      pinBall_bg_rot_35: 2839388040617026618
+      pinBall_bg_rot_36: 3252414507102267001
+      pinBall_bg_rot_37: 4292123454601713287
+      pinBall_bg_rot_38: 6179167378383561694
+      pinBall_bg_rot_39: 1719941761060277780
+      pinBall_bg_rot_4: 213679256006133455
+      pinBall_bg_rot_40: 5022458340462171010
+      pinBall_bg_rot_41: -7330077778081387669
+      pinBall_bg_rot_42: 6997354846942440967
+      pinBall_bg_rot_43: 4680302781545201258
+      pinBall_bg_rot_44: -806148275288490956
+      pinBall_bg_rot_45: -115871840404188958
+      pinBall_bg_rot_46: 7783551381954139456
+      pinBall_bg_rot_47: -8956284073587594043
+      pinBall_bg_rot_48: 1166407420137857750
+      pinBall_bg_rot_49: -7604320763096872616
+      pinBall_bg_rot_5: 6972499413836314959
+      pinBall_bg_rot_50: -5707571984639134679
+      pinBall_bg_rot_51: -9093702676650097741
+      pinBall_bg_rot_52: 6503681119932874872
+      pinBall_bg_rot_53: -5667956681250347429
+      pinBall_bg_rot_54: -3176759142321735685
+      pinBall_bg_rot_55: -7172275097988707631
+      pinBall_bg_rot_56: -95704129676508730
+      pinBall_bg_rot_57: -3208554300985702211
+      pinBall_bg_rot_58: -1665461512329638947
+      pinBall_bg_rot_59: 7420415099683386504
+      pinBall_bg_rot_6: 8915391329957360126
+      pinBall_bg_rot_60: 4901789256879561028
+      pinBall_bg_rot_61: -573335418189699413
+      pinBall_bg_rot_62: 4092241395086550953
+      pinBall_bg_rot_63: -3222877662611439034
+      pinBall_bg_rot_64: -6982576397027500084
+      pinBall_bg_rot_65: -2305874165908878833
+      pinBall_bg_rot_66: 8954261363086148152
+      pinBall_bg_rot_67: 8892044040385935556
+      pinBall_bg_rot_68: -5216055853784125943
+      pinBall_bg_rot_69: -1595267733838329083
+      pinBall_bg_rot_7: -5105948472121778062
+      pinBall_bg_rot_70: 3319461500136685894
+      pinBall_bg_rot_71: -2416488562899768016
+      pinBall_bg_rot_72: -1368217548232934299
+      pinBall_bg_rot_73: 442508527028126341
+      pinBall_bg_rot_74: 1603802622961791866
+      pinBall_bg_rot_75: -8022503300080684323
+      pinBall_bg_rot_76: 159852990844124022
+      pinBall_bg_rot_77: 5277349822680956242
+      pinBall_bg_rot_78: 7262111376782789756
+      pinBall_bg_rot_79: 4241918224387088389
+      pinBall_bg_rot_8: 3599762226291290840
+      pinBall_bg_rot_80: 5882905583436221746
+      pinBall_bg_rot_81: 326085774455714058
+      pinBall_bg_rot_9: -32255131261960484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

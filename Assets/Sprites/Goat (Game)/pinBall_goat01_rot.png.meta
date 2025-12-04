@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 778fca91854066146bcb3d7bdafbf9b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4866448168638261982
+    second: pinBall_goat01_rot_0
+  - first:
+      213: -4876650403021160849
+    second: pinBall_goat01_rot_1
+  - first:
+      213: -3346789936857046571
+    second: pinBall_goat01_rot_2
+  - first:
+      213: -1949260959786525215
+    second: pinBall_goat01_rot_3
+  - first:
+      213: -7886551492048795491
+    second: pinBall_goat01_rot_4
+  - first:
+      213: 7911323595855237478
+    second: pinBall_goat01_rot_5
+  - first:
+      213: 2780642512824175999
+    second: pinBall_goat01_rot_6
+  - first:
+      213: 1885313762146225364
+    second: pinBall_goat01_rot_7
+  - first:
+      213: 8655423484369208554
+    second: pinBall_goat01_rot_8
+  - first:
+      213: -8600403460299889328
+    second: pinBall_goat01_rot_9
+  - first:
+      213: -4973517948362439866
+    second: pinBall_goat01_rot_10
+  - first:
+      213: 1130436721688985212
+    second: pinBall_goat01_rot_11
+  - first:
+      213: 893017700193726464
+    second: pinBall_goat01_rot_12
+  - first:
+      213: 6888531643456689671
+    second: pinBall_goat01_rot_13
+  - first:
+      213: 4945996742818841080
+    second: pinBall_goat01_rot_14
+  - first:
+      213: 1225631026324349294
+    second: pinBall_goat01_rot_15
+  - first:
+      213: 1348316222252037926
+    second: pinBall_goat01_rot_16
+  - first:
+      213: -782256562106239321
+    second: pinBall_goat01_rot_17
+  - first:
+      213: 9054377531412667031
+    second: pinBall_goat01_rot_18
+  - first:
+      213: -4985134259479539749
+    second: pinBall_goat01_rot_19
+  - first:
+      213: 975020774991285023
+    second: pinBall_goat01_rot_20
+  - first:
+      213: -30198095955343399
+    second: pinBall_goat01_rot_21
+  - first:
+      213: 5342915978826313813
+    second: pinBall_goat01_rot_22
+  - first:
+      213: -8105677658280282754
+    second: pinBall_goat01_rot_23
+  - first:
+      213: 5075436443910422504
+    second: pinBall_goat01_rot_24
+  - first:
+      213: -7494647031284234680
+    second: pinBall_goat01_rot_25
+  - first:
+      213: -3233514228190251505
+    second: pinBall_goat01_rot_26
+  - first:
+      213: -5681488070880179605
+    second: pinBall_goat01_rot_27
+  - first:
+      213: 6576127726399373527
+    second: pinBall_goat01_rot_28
+  - first:
+      213: -8839164315494692785
+    second: pinBall_goat01_rot_29
+  - first:
+      213: -8977094140979392057
+    second: pinBall_goat01_rot_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 167
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22557769c27e67cb0800000000000000
+      internalID: -4866448168638261982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e782acb48a25cb0800000000000000
+      internalID: -4876650403021160849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 225
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1a8c3d840dd81d0800000000000000
+      internalID: -3346789936857046571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 225
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed13651c75d2f4e0800000000000000
+      internalID: -1949260959786525215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 173
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98ca95e3375d8290800000000000000
+      internalID: -7886551492048795491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 195
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6611e1af4eaaacd60800000000000000
+      internalID: 7911323595855237478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 195
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d0c3802a3d69620800000000000000
+      internalID: 2780642512824175999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc81eab0eaf92a10800000000000000
+      internalID: 1885313762146225364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 155
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae48666fccd3e1870800000000000000
+      internalID: 8655423484369208554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 157
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055e8c7ae9a35a880800000000000000
+      internalID: -8600403460299889328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 153
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643c3dbd6c38afab0800000000000000
+      internalID: -4973517948362439866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 109
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e3455853e10bf00800000000000000
+      internalID: 1130436721688985212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 107
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000fe2eedd2a46c00800000000000000
+      internalID: 893017700193726464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7061640680bf89f50800000000000000
+      internalID: 6888531643456689671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 117
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1c4f325d5b3a440800000000000000
+      internalID: 4945996742818841080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 115
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61a2cdbce0520110800000000000000
+      internalID: 1225631026324349294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 119
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627ba30e57e26b210800000000000000
+      internalID: 1348316222252037926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 115
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a670742dcdd425f0800000000000000
+      internalID: -782256562106239321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 59
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a5126846c97ad70800000000000000
+      internalID: 9054377531412667031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 85
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf871aadce31dab0800000000000000
+      internalID: -4985134259479539749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 77
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4bfd9a38f78d00800000000000000
+      internalID: 975020774991285023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 75
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d740b1edf6b49ff0800000000000000
+      internalID: -30198095955343399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55073b656c9d52a40800000000000000
+      internalID: 5342915978826313813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7532629d19d28f80800000000000000
+      internalID: -8105677658280282754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 45
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef3a5f0e829f6640800000000000000
+      internalID: 5075436443910422504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8460e5fbb3aadf790800000000000000
+      internalID: -7494647031284234680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 7
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067c8cf0ff3023d0800000000000000
+      internalID: -3233514228190251505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 11
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a419b83bc4721b0800000000000000
+      internalID: -5681488070880179605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0c1a94359134b50800000000000000
+      internalID: 6576127726399373527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4841af03eaf45580800000000000000
+      internalID: -8839164315494692785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinBall_goat01_rot_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1dea30174fa6380800000000000000
+      internalID: -8977094140979392057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pinBall_goat01_rot_0: -4866448168638261982
+      pinBall_goat01_rot_1: -4876650403021160849
+      pinBall_goat01_rot_10: -4973517948362439866
+      pinBall_goat01_rot_11: 1130436721688985212
+      pinBall_goat01_rot_12: 893017700193726464
+      pinBall_goat01_rot_13: 6888531643456689671
+      pinBall_goat01_rot_14: 4945996742818841080
+      pinBall_goat01_rot_15: 1225631026324349294
+      pinBall_goat01_rot_16: 1348316222252037926
+      pinBall_goat01_rot_17: -782256562106239321
+      pinBall_goat01_rot_18: 9054377531412667031
+      pinBall_goat01_rot_19: -4985134259479539749
+      pinBall_goat01_rot_2: -3346789936857046571
+      pinBall_goat01_rot_20: 975020774991285023
+      pinBall_goat01_rot_21: -30198095955343399
+      pinBall_goat01_rot_22: 5342915978826313813
+      pinBall_goat01_rot_23: -8105677658280282754
+      pinBall_goat01_rot_24: 5075436443910422504
+      pinBall_goat01_rot_25: -7494647031284234680
+      pinBall_goat01_rot_26: -3233514228190251505
+      pinBall_goat01_rot_27: -5681488070880179605
+      pinBall_goat01_rot_28: 6576127726399373527
+      pinBall_goat01_rot_29: -8839164315494692785
+      pinBall_goat01_rot_3: -1949260959786525215
+      pinBall_goat01_rot_30: -8977094140979392057
+      pinBall_goat01_rot_4: -7886551492048795491
+      pinBall_goat01_rot_5: 7911323595855237478
+      pinBall_goat01_rot_6: 2780642512824175999
+      pinBall_goat01_rot_7: 1885313762146225364
+      pinBall_goat01_rot_8: 8655423484369208554
+      pinBall_goat01_rot_9: -8600403460299889328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

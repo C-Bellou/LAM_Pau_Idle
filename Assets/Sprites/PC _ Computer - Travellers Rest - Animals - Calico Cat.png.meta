@@ -1,0 +1,6487 @@
+fileFormatVersion: 2
+guid: cab05b41f6c3a6043a5a7cf2c53c1e95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2981311025416437683
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_0
+  - first:
+      213: 3383071966262995423
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_1
+  - first:
+      213: -5616339179104948142
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_2
+  - first:
+      213: 7212631881783586486
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_3
+  - first:
+      213: -5193706949512031474
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_4
+  - first:
+      213: 5499562228162649455
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_5
+  - first:
+      213: 2352228177086480039
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_6
+  - first:
+      213: -6165541977238223075
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_7
+  - first:
+      213: -433158840431659211
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_8
+  - first:
+      213: 2187582473124161768
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_9
+  - first:
+      213: 5117830224542466118
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_10
+  - first:
+      213: 9063315527449599776
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_11
+  - first:
+      213: -8828815744374293610
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_12
+  - first:
+      213: 4862506526326675346
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_13
+  - first:
+      213: -354636414263952776
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_14
+  - first:
+      213: 4646526160243937599
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_15
+  - first:
+      213: -1627501291496921452
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_16
+  - first:
+      213: -949115218982089147
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_17
+  - first:
+      213: -1000323769817497460
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_18
+  - first:
+      213: -6504207239019088087
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_19
+  - first:
+      213: -7749020529229586552
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_20
+  - first:
+      213: -3034098269699525756
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_21
+  - first:
+      213: -7814622141236088328
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_22
+  - first:
+      213: -3968955003205639600
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_23
+  - first:
+      213: -4461375182266059252
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_24
+  - first:
+      213: 5215429555874189399
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_25
+  - first:
+      213: 1684450732294466443
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_26
+  - first:
+      213: 6605465261390430471
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_27
+  - first:
+      213: -6903064126857794032
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_28
+  - first:
+      213: 3573138265407401663
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_29
+  - first:
+      213: -4512736826547930985
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_30
+  - first:
+      213: -3003169932214639116
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_31
+  - first:
+      213: 7124372031407439533
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_32
+  - first:
+      213: 3692019264912879251
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_33
+  - first:
+      213: 5207624211238507250
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_34
+  - first:
+      213: -4051167775648538984
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_35
+  - first:
+      213: 8352975441073878264
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_36
+  - first:
+      213: -3640497247060414183
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_37
+  - first:
+      213: -1508447552936659541
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_38
+  - first:
+      213: -1435678042368164064
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_39
+  - first:
+      213: -2263827653244172352
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_40
+  - first:
+      213: -654766675134552616
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_41
+  - first:
+      213: 8210487616939622632
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_42
+  - first:
+      213: 3872153436099642326
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_43
+  - first:
+      213: 8965938829030784679
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_44
+  - first:
+      213: 2151680244182659995
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_45
+  - first:
+      213: 2163671774659447548
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_46
+  - first:
+      213: 228247230805497867
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_47
+  - first:
+      213: -481650159870376053
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_48
+  - first:
+      213: -1752439053082038884
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_49
+  - first:
+      213: 1115793073393063882
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_50
+  - first:
+      213: 7028307081543004814
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_51
+  - first:
+      213: 3770377598975145406
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_52
+  - first:
+      213: 1885015393853603140
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_53
+  - first:
+      213: 2945986331566415090
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_54
+  - first:
+      213: -7688203232482367966
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_55
+  - first:
+      213: -861280462979970218
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_56
+  - first:
+      213: -3977727289863356686
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_57
+  - first:
+      213: -9093512327656426888
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_58
+  - first:
+      213: -1464871665757194405
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_59
+  - first:
+      213: -891805548297961055
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_60
+  - first:
+      213: -2040470527961803017
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_61
+  - first:
+      213: -6238615358207518620
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_62
+  - first:
+      213: -6789500187594375344
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_63
+  - first:
+      213: 8350540429929267063
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_64
+  - first:
+      213: -6684790119122515935
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_65
+  - first:
+      213: 5353641017132513265
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_66
+  - first:
+      213: -4800028764786556994
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_67
+  - first:
+      213: 7790136565286071224
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_68
+  - first:
+      213: 4630379683268403362
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_69
+  - first:
+      213: 894033511305913965
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_70
+  - first:
+      213: -4938924214077249127
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_71
+  - first:
+      213: -4712214060212373515
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_72
+  - first:
+      213: -8606099229648019345
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_73
+  - first:
+      213: 4603695571656294660
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_74
+  - first:
+      213: -5122042805455180524
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_75
+  - first:
+      213: 5316644371370083028
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_76
+  - first:
+      213: 7102603586878578154
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_77
+  - first:
+      213: -2189603531051385301
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_78
+  - first:
+      213: -585709323316887373
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_79
+  - first:
+      213: -668230531002306000
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_80
+  - first:
+      213: 8102317650873130248
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_81
+  - first:
+      213: -6943292784217588167
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_82
+  - first:
+      213: 1560157614311678306
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_83
+  - first:
+      213: 564797194794160028
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_84
+  - first:
+      213: -8406755635810457803
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_85
+  - first:
+      213: 2387019247872615003
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_86
+  - first:
+      213: 853962496657714455
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_87
+  - first:
+      213: -5309227553759233992
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_88
+  - first:
+      213: -4451904941893318210
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_89
+  - first:
+      213: 6796974956850655928
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_90
+  - first:
+      213: 7343403896536051108
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_91
+  - first:
+      213: 1973823727726407317
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_92
+  - first:
+      213: 2579348576357739081
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_93
+  - first:
+      213: 1656981828890217355
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_94
+  - first:
+      213: -2669639387334801189
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_95
+  - first:
+      213: -7229129527396606889
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_96
+  - first:
+      213: 313320219160217400
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_97
+  - first:
+      213: -2796574417343135357
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_98
+  - first:
+      213: -3106134081624902370
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_99
+  - first:
+      213: 2688933063416111811
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_100
+  - first:
+      213: 8199352097142671180
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_101
+  - first:
+      213: 2304507035500696626
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_102
+  - first:
+      213: 2669444415301074041
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_103
+  - first:
+      213: -1679039317434536250
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_104
+  - first:
+      213: 5160093381170334804
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_105
+  - first:
+      213: 8683102452128324127
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_106
+  - first:
+      213: 7266693505895545239
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_107
+  - first:
+      213: 6637800341529155097
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_108
+  - first:
+      213: -681326835565207036
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_109
+  - first:
+      213: -5403136930516695102
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_110
+  - first:
+      213: 7719877796558684373
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_111
+  - first:
+      213: 7117937296878263971
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_112
+  - first:
+      213: 6627603257026646868
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_113
+  - first:
+      213: -8681475548701176300
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_114
+  - first:
+      213: -4108057730077458584
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_115
+  - first:
+      213: 3340782881789122842
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_116
+  - first:
+      213: 2569323554688294395
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_117
+  - first:
+      213: 744733228159040601
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_118
+  - first:
+      213: 5773321881178695780
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_119
+  - first:
+      213: 6364748469394544680
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_120
+  - first:
+      213: 6372902669808347768
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_121
+  - first:
+      213: -1199701357512396526
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_122
+  - first:
+      213: -6746824919906615777
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_123
+  - first:
+      213: 8445658551091712658
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_124
+  - first:
+      213: 128173286313450463
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_125
+  - first:
+      213: 5914135969097872710
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_126
+  - first:
+      213: -3405511410364332163
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_127
+  - first:
+      213: 6694940406810387802
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_128
+  - first:
+      213: -3622670320994072650
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_129
+  - first:
+      213: -5894233876245199194
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_130
+  - first:
+      213: -6766976149449222582
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_131
+  - first:
+      213: -1594339144791005264
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_132
+  - first:
+      213: 7152002259961610546
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_133
+  - first:
+      213: 4605288583395382421
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_134
+  - first:
+      213: 5733623370458235504
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_135
+  - first:
+      213: 5935464710865842656
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_136
+  - first:
+      213: -8404458646824684245
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_137
+  - first:
+      213: 1220669241551639295
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_138
+  - first:
+      213: -7610718946244956050
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_139
+  - first:
+      213: -4580713838450677440
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_140
+  - first:
+      213: -8747702820709829272
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_141
+  - first:
+      213: 156820472101773329
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_142
+  - first:
+      213: -399657573139914250
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_143
+  - first:
+      213: -4457972930386246391
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_144
+  - first:
+      213: -4761336434740409609
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_145
+  - first:
+      213: -5024286338938020291
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_146
+  - first:
+      213: 2141206756410781567
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_147
+  - first:
+      213: 6530391312971629869
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_148
+  - first:
+      213: -1799255769157744884
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_149
+  - first:
+      213: 6462021773467464028
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_150
+  - first:
+      213: 8747754941453659413
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_151
+  - first:
+      213: 2477542383468815569
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_152
+  - first:
+      213: -8106050462253938027
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_153
+  - first:
+      213: 7890593326080059012
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_154
+  - first:
+      213: 3607481301565651274
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_155
+  - first:
+      213: -6418547035632828749
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_156
+  - first:
+      213: -179757822742173765
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_157
+  - first:
+      213: 3639566145164131566
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_158
+  - first:
+      213: 4521874721032446013
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_159
+  - first:
+      213: -7741783260685684131
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_160
+  - first:
+      213: -8467774383750930715
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_161
+  - first:
+      213: -8553404694248501205
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_162
+  - first:
+      213: -2540448784823013914
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_163
+  - first:
+      213: 8919655204321624225
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_164
+  - first:
+      213: 6355514745324984227
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_165
+  - first:
+      213: 8248237769835898635
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_166
+  - first:
+      213: -4224419000546663358
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_167
+  - first:
+      213: 2750574407507406578
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_168
+  - first:
+      213: 7254550860357915970
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_169
+  - first:
+      213: -1318606887393135707
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_170
+  - first:
+      213: 3617686279722836611
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_171
+  - first:
+      213: -4923369632834938780
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_172
+  - first:
+      213: -2829882154816415159
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_173
+  - first:
+      213: -6895771439410115418
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_174
+  - first:
+      213: 5720118309646964671
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_175
+  - first:
+      213: -885637956611518624
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_176
+  - first:
+      213: -8737442111318934337
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_177
+  - first:
+      213: -8264314506144870167
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_178
+  - first:
+      213: 882822967759781220
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_179
+  - first:
+      213: -9138178210039886320
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_180
+  - first:
+      213: -7453406057186160571
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_181
+  - first:
+      213: -225296381424690056
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_182
+  - first:
+      213: -7871785860449692988
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_183
+  - first:
+      213: -7162733533727165220
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_184
+  - first:
+      213: -7990535397071228321
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_185
+  - first:
+      213: 8065287217215652100
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_186
+  - first:
+      213: -829717218210935310
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_187
+  - first:
+      213: -2378316505997629203
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_188
+  - first:
+      213: 5997878503298582907
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_189
+  - first:
+      213: 6384292022226399251
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_190
+  - first:
+      213: 1653107204770130492
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_191
+  - first:
+      213: 6599796017618913768
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_192
+  - first:
+      213: -2618811624121845433
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_193
+  - first:
+      213: 3933703848167952600
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_194
+  - first:
+      213: -3487131288309309418
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_195
+  - first:
+      213: 6642547758562291544
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_196
+  - first:
+      213: 6872803802783063369
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_197
+  - first:
+      213: -5523033343980293341
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_198
+  - first:
+      213: -7173655911272542609
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_199
+  - first:
+      213: 5198452007116524446
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_200
+  - first:
+      213: -274431992840059026
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_201
+  - first:
+      213: -6336581893770404385
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_202
+  - first:
+      213: 6084526384074501187
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_203
+  - first:
+      213: 3730047933771844632
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_204
+  - first:
+      213: -2969874529577365195
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_205
+  - first:
+      213: -1069264476086656859
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_206
+  - first:
+      213: 7122445303675006791
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_207
+  - first:
+      213: 7766799776690066733
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_208
+  - first:
+      213: -2857856545420192371
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_209
+  - first:
+      213: 5344784774803213050
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_210
+  - first:
+      213: 5836342152104242402
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_211
+  - first:
+      213: -8518788212704647815
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_212
+  - first:
+      213: 5915447613141677168
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_213
+  - first:
+      213: -7549851979062960219
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_214
+  - first:
+      213: 7081900550765056792
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_215
+  - first:
+      213: -3241822682316885727
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_216
+  - first:
+      213: 4226334364319283291
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_217
+  - first:
+      213: 5055395109987412455
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_218
+  - first:
+      213: -3584681595402273813
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_219
+  - first:
+      213: 2672747810991222509
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_220
+  - first:
+      213: -5326778686230280111
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_221
+  - first:
+      213: 4258982621852028320
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_222
+  - first:
+      213: -2369793110310806294
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_223
+  - first:
+      213: -1235626544078694839
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_224
+  - first:
+      213: 454430748746707546
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_225
+  - first:
+      213: -8208672572876274548
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_226
+  - first:
+      213: -3502561367547075752
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_227
+  - first:
+      213: -3404663041946366566
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_228
+  - first:
+      213: -8551953874270361440
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_229
+  - first:
+      213: -1647607058010438767
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_230
+  - first:
+      213: 348667323774800215
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_231
+  - first:
+      213: -860455471821385145
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_232
+  - first:
+      213: -1506126852267262065
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_233
+  - first:
+      213: -6653249551350536604
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_234
+  - first:
+      213: 4951427665059145462
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_235
+  - first:
+      213: -2986266617047913179
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_236
+  - first:
+      213: -3982168816505731379
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_237
+  - first:
+      213: 3771879832216419978
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_238
+  - first:
+      213: 7338267005636167029
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_239
+  - first:
+      213: -1983051231960636168
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_240
+  - first:
+      213: 8059415618587916209
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_241
+  - first:
+      213: -549138737626114977
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_242
+  - first:
+      213: 1434835655707016137
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_243
+  - first:
+      213: 7497484505979070231
+    second: PC _ Computer - Travellers Rest - Animals - Calico Cat_244
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4009150b6140a6d0800000000000000
+      internalID: -2981311025416437683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd920be670613fe20800000000000000
+      internalID: 3383071966262995423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 391
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2503753f541ce02b0800000000000000
+      internalID: -5616339179104948142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 391
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be2e597b7a681460800000000000000
+      internalID: 7212631881783586486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 391
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039bdefb0f3ce7b0800000000000000
+      internalID: -5193706949512031474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 391
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d5ac565be525c40800000000000000
+      internalID: 5499562228162649455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 390
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae77ed701bc4a020800000000000000
+      internalID: 2352228177086480039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 390
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17c4f6fc389f6aa0800000000000000
+      internalID: -6165541977238223075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53730c0645c1df9f0800000000000000
+      internalID: -433158840431659211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8af634baadb5e10800000000000000
+      internalID: 2187582473124161768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6408c9a497f260740800000000000000
+      internalID: 5117830224542466118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f5ae4e37d57cd70800000000000000
+      internalID: 9063315527449599776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_12
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 388
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bb1398bdeb97580800000000000000
+      internalID: -8828815744374293610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 387
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29758bb4ce71b7340800000000000000
+      internalID: 4862506526326675346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_14
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 386
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af0676f04141bf0800000000000000
+      internalID: -354636414263952776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_15
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 385
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3156e4ace6cb7040800000000000000
+      internalID: 4646526160243937599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 388
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49626d0c234f969e0800000000000000
+      internalID: -1627501291496921452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_17
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 387
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ec7a9acb014d2f0800000000000000
+      internalID: -949115218982089147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_18
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 386
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8006afc4d22e12f0800000000000000
+      internalID: -1000323769817497460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_19
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 385
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9273eb41af96cb5a0800000000000000
+      internalID: -6504207239019088087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_20
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f9f0e72e2f57490800000000000000
+      internalID: -7749020529229586552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_21
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 389
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483bee4f2b7b4e5d0800000000000000
+      internalID: -3034098269699525756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_22
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f178b1f092ec8390800000000000000
+      internalID: -7814622141236088328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 389
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0522b68f3707be8c0800000000000000
+      internalID: -3968955003205639600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_24
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 389
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b94bb8e20612c0800000000000000
+      internalID: -4461375182266059252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_25
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75054fc6c8de06840800000000000000
+      internalID: 5215429555874189399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_26
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bee04340f506710800000000000000
+      internalID: 1684450732294466443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_27
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7010c5178a35bab50800000000000000
+      internalID: 6605465261390430471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_28
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e26e820c36330a0800000000000000
+      internalID: -6903064126857794032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_29
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 389
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbea6f23256569130800000000000000
+      internalID: 3573138265407401663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_30
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79879c804c98f51c0800000000000000
+      internalID: -4512736826547930985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_31
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5663eabd89256d0800000000000000
+      internalID: -3003169932214639116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_32
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb4c3bd9aded260800000000000000
+      internalID: 7124372031407439533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_33
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 389
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ee705d5ffac3330800000000000000
+      internalID: 3692019264912879251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_34
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2589201a2354840800000000000000
+      internalID: 5207624211238507250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_35
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e95fe3f5c57c7c0800000000000000
+      internalID: -4051167775648538984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_36
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 389
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f435ce58eabbe370800000000000000
+      internalID: 8352975441073878264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_37
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 389
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9113d2fba0b5a7dc0800000000000000
+      internalID: -3640497247060414183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_38
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 389
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba537e451fae01be0800000000000000
+      internalID: -1508447552936659541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_39
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 389
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f31d05d62731ce0800000000000000
+      internalID: -1435678042368164064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 339
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7ccaf5eb44590e0800000000000000
+      internalID: -2263827653244172352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 339
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d567d59d2dc9e6f0800000000000000
+      internalID: -654766675134552616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 339
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e00e609cf281f170800000000000000
+      internalID: 8210487616939622632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 339
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3078ad807acb530800000000000000
+      internalID: 3872153436099642326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 339
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aef2468cd96d6c70800000000000000
+      internalID: 8965938829030784679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 339
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93bbb038cd4cdd10800000000000000
+      internalID: 2151680244182659995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_46
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 339
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa8d13f308e60e10800000000000000
+      internalID: 2163671774659447548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 339
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08d029a5a5ea2300800000000000000
+      internalID: 228247230805497867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_48
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 339
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b878ae24bb5d059f0800000000000000
+      internalID: -481650159870376053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_49
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 337
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9de58e47f51ea7e0800000000000000
+      internalID: -1752439053082038884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 338
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac75f6673e71c7f00800000000000000
+      internalID: 1115793073393063882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_51
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 337
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82bbb79d00998160800000000000000
+      internalID: 7028307081543004814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_52
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5f0003372135430800000000000000
+      internalID: 3770377598975145406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_53
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d79c2738be82a10800000000000000
+      internalID: 1885015393853603140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_54
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc1c26c5fe32e820800000000000000
+      internalID: 2945986331566415090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_55
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226e0e6d4e30e4590800000000000000
+      internalID: -7688203232482367966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_56
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b48107bfd1c04f0800000000000000
+      internalID: -861280462979970218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_57
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe3152da164cc8c0800000000000000
+      internalID: -3977727289863356686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_58
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 336
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872376da7ba5dc180800000000000000
+      internalID: -9093512327656426888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_59
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 337
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57f1013bfabbabe0800000000000000
+      internalID: -1464871665757194405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_60
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 338
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14afc249baf93f0800000000000000
+      internalID: -891805548297961055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_61
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 340
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6de2e9ddacea3e0800000000000000
+      internalID: -2040470527961803017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_62
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 339
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4689eb3a26cfb69a0800000000000000
+      internalID: -6238615358207518620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_63
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 339
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f3dfb3d89d6c1a0800000000000000
+      internalID: -6789500187594375344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_64
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 339
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fb878274413e370800000000000000
+      internalID: 8350540429929267063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_65
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 339
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12849afddcada33a0800000000000000
+      internalID: -6684790119122515935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_66
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 339
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f429e324fb4a40800000000000000
+      internalID: 5353641017132513265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_67
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 339
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf7d33254fd26db0800000000000000
+      internalID: -4800028764786556994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_68
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 339
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb68a5aeef1c1c60800000000000000
+      internalID: 7790136565286071224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_69
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 339
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a026640ac9624040800000000000000
+      internalID: 4630379683268403362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_70
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 339
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d662fa2edbe386c00800000000000000
+      internalID: 894033511305913965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_71
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 339
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999a957489a657bb0800000000000000
+      internalID: -4938924214077249127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_72
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 339
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7b073574ada9eb0800000000000000
+      internalID: -4712214060212373515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_73
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 339
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f602113095ef09880800000000000000
+      internalID: -8606099229648019345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_74
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 339
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401cc922bbc93ef30800000000000000
+      internalID: 4603695571656294660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_75
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 339
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41daf78c439dae8b0800000000000000
+      internalID: -5122042805455180524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_76
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 339
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2089013e388c940800000000000000
+      internalID: 5316644371370083028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_77
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 339
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed1050c454819260800000000000000
+      internalID: 7102603586878578154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_78
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 339
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ebdb48037fc91e0800000000000000
+      internalID: -2189603531051385301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_79
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 341
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0001249742fd7f0800000000000000
+      internalID: -585709323316887373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 291
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032798b5fd7f9b6f0800000000000000
+      internalID: -668230531002306000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 291
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d9badb9f6317070800000000000000
+      internalID: 8102317650873130248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 291
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e7d29fff774af90800000000000000
+      internalID: -6943292784217588167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_83
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 291
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2612baa851bc6a510800000000000000
+      internalID: 1560157614311678306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_84
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 291
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fc7d56e0096d700800000000000000
+      internalID: 564797194794160028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_85
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 291
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53721064a44355b80800000000000000
+      internalID: -8406755635810457803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_86
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 291
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a775eb55602120800000000000000
+      internalID: 2387019247872615003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_87
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 289
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71de9c0cd52e9db00800000000000000
+      internalID: 853962496657714455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_88
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838f67a5ba5d156b0800000000000000
+      internalID: -5309227553759233992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb984a4ea08a732c0800000000000000
+      internalID: -4451904941893318210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_90
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 287
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23f4a16b4b35e50800000000000000
+      internalID: 6796974956850655928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_91
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 288
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad2047dfe209e560800000000000000
+      internalID: 7343403896536051108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_92
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 287
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eae5cf83e646b10800000000000000
+      internalID: 1973823727726407317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_93
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 286
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a66bd3ddfabc320800000000000000
+      internalID: 2579348576357739081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_94
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 287
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b474eb138cef610800000000000000
+      internalID: 1656981828890217355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_95
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 288
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8848f1f1983fad0800000000000000
+      internalID: -2669639387334801189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_96
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 287
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cdc341ff8fcab90800000000000000
+      internalID: -7229129527396606889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_97
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 286
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370efb4413295400800000000000000
+      internalID: 313320219160217400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_98
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381415262629039d0800000000000000
+      internalID: -2796574417343135357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_99
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 289
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157300828bc4e4d0800000000000000
+      internalID: -3106134081624902370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_100
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 289
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c268b5ef52015520800000000000000
+      internalID: 2688933063416111811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_101
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c470b825a43f9c170800000000000000
+      internalID: 8199352097142671180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_102
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234586160f04bff10800000000000000
+      internalID: 2304507035500696626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_103
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cbba96d85cb0520800000000000000
+      internalID: 2669444415301074041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_104
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce666003aad2b8e0800000000000000
+      internalID: -1679039317434536250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_105
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c808047955c9740800000000000000
+      internalID: 5160093381170334804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_106
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a9e67dca3908870800000000000000
+      internalID: 8683102452128324127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_107
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 289
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ba863e3b78d460800000000000000
+      internalID: 7266693505895545239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_108
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916dfc6fd343e1c50800000000000000
+      internalID: 6637800341529155097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_109
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e1365ad07b86f0800000000000000
+      internalID: -681326835565207036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_110
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c702c7b6933405b0800000000000000
+      internalID: -5403136930516695102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_111
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d04e4d44f3822b60800000000000000
+      internalID: 7719877796558684373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_112
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aedee1524ef7c260800000000000000
+      internalID: 7117937296878263971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_113
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4539b473c0af9fb50800000000000000
+      internalID: 6627603257026646868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_114
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 289
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e4d612cf3358780800000000000000
+      internalID: -8681475548701176300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_115
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 289
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f7fe9824f3df6c0800000000000000
+      internalID: -4108057730077458584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_116
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 289
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a191fbca458dc5e20800000000000000
+      internalID: 3340782881789122842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_117
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 289
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd5d3ef82218a320800000000000000
+      internalID: 2569323554688294395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_118
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 289
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c79dcdce2d55a00800000000000000
+      internalID: 744733228159040601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_119
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 289
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46865ad99a5fe1050800000000000000
+      internalID: 5773321881178695780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 239
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82819f2d201245850800000000000000
+      internalID: 6364748469394544680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 239
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa01e8639117850800000000000000
+      internalID: 6372902669808347768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_122
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 239
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2117becb8fdc95fe0800000000000000
+      internalID: -1199701357512396526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_123
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 239
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e76374b767e52a0800000000000000
+      internalID: -6746824919906615777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_124
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 239
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292df0884b1053570800000000000000
+      internalID: 8445658551091712658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_125
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 239
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb5860ccec57c100800000000000000
+      internalID: 128173286313450463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_126
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 239
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6457077545b331250800000000000000
+      internalID: 5914135969097872710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_127
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 241
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c1ba5a613db0d0800000000000000
+      internalID: -3405511410364332163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_128
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 240
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55a75424d439ec50800000000000000
+      internalID: 6694940406810387802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_129
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 239
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b74cca6980b9bdc0800000000000000
+      internalID: -3622670320994072650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_130
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 236
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c45fb489733ea0800000000000000
+      internalID: -5894233876245199194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_131
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 235
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46d9888b0fd612a0800000000000000
+      internalID: -6766976149449222582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_132
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 235
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b76b37bef4cfd9e0800000000000000
+      internalID: -1594339144791005264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_133
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 236
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2318dc99924014360800000000000000
+      internalID: 7152002259961610546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_134
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 235
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5949175119549ef30800000000000000
+      internalID: 4605288583395382421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_135
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 235
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728a00d31ce19f40800000000000000
+      internalID: 5733623370458235504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_136
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 236
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1760405b10f5250800000000000000
+      internalID: 5935464710865842656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_137
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 238
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25fd82b36d5d5b80800000000000000
+      internalID: -8404458646824684245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_138
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 240
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff25ee23530b0f010800000000000000
+      internalID: 1220669241551639295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_139
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 241
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60fbb3117b416690800000000000000
+      internalID: -7610718946244956050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_140
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 239
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0496e6998090e60c0800000000000000
+      internalID: -4580713838450677440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_141
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 239
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86578e2c1aae99680800000000000000
+      internalID: -8747702820709829272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_142
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 239
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a22573632d2200800000000000000
+      internalID: 156820472101773329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_143
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 239
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f163310e81247af0800000000000000
+      internalID: -399657573139914250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_144
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 238
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905450a3d391222c0800000000000000
+      internalID: -4457972930386246391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_145
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 238
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa4c2f3db55cedb0800000000000000
+      internalID: -4761336434740409609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_146
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 237
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e50cdc136264ab0800000000000000
+      internalID: -5024286338938020291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_147
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 237
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fe78a433817bd10800000000000000
+      internalID: 2141206756410781567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_148
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 236
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2588f5bc4c90aa50800000000000000
+      internalID: 6530391312971629869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_149
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 236
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07c74b2962c707e0800000000000000
+      internalID: -1799255769157744884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_150
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 235
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c513e52d096bda950800000000000000
+      internalID: 6462021773467464028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_151
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 232
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d638b85c4466970800000000000000
+      internalID: 8747754941453659413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_152
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 232
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d422a2dbaff16220800000000000000
+      internalID: 2477542383468815569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_153
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 232
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a86f16d06818f80800000000000000
+      internalID: -8106050462253938027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_154
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 232
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e11ce2d4018d60800000000000000
+      internalID: 7890593326080059012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_155
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 232
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a493fa96129501230800000000000000
+      internalID: 3607481301565651274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_156
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 232
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bef7fe5a7dbce6a0800000000000000
+      internalID: -6418547035632828749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_157
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 234
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7eadd663f518df0800000000000000
+      internalID: -179757822742173765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_158
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 237
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecbb033026528230800000000000000
+      internalID: 3639566145164131566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_159
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 239
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3025f1d91de0ce30800000000000000
+      internalID: 4521874721032446013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_160
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 189
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52b3c26429af8490800000000000000
+      internalID: -7741783260685684131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 189
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee9f5aef0c6c7a80800000000000000
+      internalID: -8467774383750930715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_162
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 182
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20d82b9fb33c4980800000000000000
+      internalID: -8553404694248501205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 182
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed2d824a438ebcd0800000000000000
+      internalID: -2540448784823013914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_164
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 182
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a00e84662bf8cb70800000000000000
+      internalID: 8919655204321624225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_165
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 182
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a75ad7ecf2533850800000000000000
+      internalID: 6355514745324984227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_166
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 188
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b076706fc80a77270800000000000000
+      internalID: 8248237769835898635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_167
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 188
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244610a0d49df55c0800000000000000
+      internalID: -4224419000546663358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_168
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 188
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe62c7b9d00c2620800000000000000
+      internalID: 2750574407507406578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_169
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 190
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24553ac32975da460800000000000000
+      internalID: 7254550860357915970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_170
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 190
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a37c8ea50e53bde0800000000000000
+      internalID: -1318606887393135707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_171
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 190
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822fab018a943230800000000000000
+      internalID: 3617686279722836611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_172
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 190
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4689de0776dacabb0800000000000000
+      internalID: -4923369632834938780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_173
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 190
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a53fd6c2d3ab8d0800000000000000
+      internalID: -2829882154816415159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_174
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 190
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac0da5496c4d40a0800000000000000
+      internalID: -6895771439410115418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_175
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 188
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb717bfcb41f16f40800000000000000
+      internalID: 5720118309646964671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_176
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 188
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f419488f495b3f0800000000000000
+      internalID: -885637956611518624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_177
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 188
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcbb4551be5eb680800000000000000
+      internalID: -8737442111318934337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_178
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 192
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0902d2eb14f4d80800000000000000
+      internalID: -8264314506144870167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_179
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46db0e0dfca604c00800000000000000
+      internalID: 882822967759781220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_180
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 192
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e8b58855bae2180800000000000000
+      internalID: -9138178210039886320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_181
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 192
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5409caa4eae209890800000000000000
+      internalID: -7453406057186160571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_182
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 193
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c100082269fdcf0800000000000000
+      internalID: -225296381424690056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_183
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 192
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c214f7677cc1c290800000000000000
+      internalID: -7871785860449692988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_184
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 192
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f9650dcbd89c90800000000000000
+      internalID: -7162733533727165220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_185
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 192
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52726c546aeb1190800000000000000
+      internalID: -7990535397071228321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_186
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40143a90ef7adef60800000000000000
+      internalID: 8065287217215652100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_187
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 188
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd038806904c74f0800000000000000
+      internalID: -829717218210935310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_188
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 188
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de820981db58efed0800000000000000
+      internalID: -2378316505997629203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_189
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 188
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79401b78bebc3350800000000000000
+      internalID: 5997878503298582907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_190
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 188
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3103a2fc4cf899850800000000000000
+      internalID: 6384292022226399251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_191
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 188
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a66f38e3401f610800000000000000
+      internalID: 1653107204770130492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_192
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 188
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e98634c28f279b50800000000000000
+      internalID: 6599796017618913768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_193
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749bd82f3bc18abd0800000000000000
+      internalID: -2618811624121845433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_194
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 188
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d053a9eec2579630800000000000000
+      internalID: 3933703848167952600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_195
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 188
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6106c23a1983b9fc0800000000000000
+      internalID: -3487131288309309418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_196
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 188
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f2ca02ef11f2c50800000000000000
+      internalID: 6642547758562291544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_197
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 188
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d96db15aa116f50800000000000000
+      internalID: 6872803802783063369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_198
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 188
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ba699f6e3a53b0800000000000000
+      internalID: -5523033343980293341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_199
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 188
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e08b3d4fd027c90800000000000000
+      internalID: -7173655911272542609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_200
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 138
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc812de8c942840800000000000000
+      internalID: 5198452007116524446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_201
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 138
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6704c77e85013cf0800000000000000
+      internalID: -274431992840059026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_202
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 138
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd94ab1750ff08a0800000000000000
+      internalID: -6336581893770404385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_203
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 138
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ca0455284907450800000000000000
+      internalID: 6084526384074501187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_204
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 138
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c86a745dac3c330800000000000000
+      internalID: 3730047933771844632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_205
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 138
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5319f05b9d2e8c6d0800000000000000
+      internalID: -2969874529577365195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_206
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 138
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a029ebcf953921f0800000000000000
+      internalID: -1069264476086656859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_207
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 138
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa2b1744208d260800000000000000
+      internalID: 7122445303675006791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_208
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 138
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25d1332f3739cb60800000000000000
+      internalID: 7766799776690066733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_209
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 138
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85543f0d9ad658d0800000000000000
+      internalID: -2857856545420192371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_210
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 138
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afacf0f4f6d7c2a40800000000000000
+      internalID: 5344784774803213050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_211
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 138
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecefcbd34adef050800000000000000
+      internalID: 5836342152104242402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_212
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 138
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97564f8414f27c980800000000000000
+      internalID: -8518788212704647815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_213
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 138
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074fdb44344e71250800000000000000
+      internalID: 5915447613141677168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_214
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 138
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af1c2930a9893790800000000000000
+      internalID: -7549851979062960219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_215
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 138
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8139ef68707f74260800000000000000
+      internalID: 7081900550765056792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_216
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 140
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121b2b3427bb203d0800000000000000
+      internalID: -3241822682316885727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_217
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 140
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58f64756b4f6aa30800000000000000
+      internalID: 4226334364319283291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_218
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 140
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9eb02611f582640800000000000000
+      internalID: 5055395109987412455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_219
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 140
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebba29d417a04ec0800000000000000
+      internalID: -3584681595402273813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_220
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 140
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea55829f1871520800000000000000
+      internalID: 2672747810991222509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_221
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 140
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1584f12e10b7316b0800000000000000
+      internalID: -5326778686230280111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_222
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 140
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad4d082122fa1b30800000000000000
+      internalID: 4258982621852028320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_223
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 140
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec91ccc8bdcc1fd0800000000000000
+      internalID: -2369793110310806294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_224
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 140
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946552d643c2adee0800000000000000
+      internalID: -1235626544078694839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_225
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 140
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52ff0abb567e4600800000000000000
+      internalID: 454430748746707546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_226
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 140
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84c73059cfe41e80800000000000000
+      internalID: -8208672572876274548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_227
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 140
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a95b5ef6646fc0800000000000000
+      internalID: -3502561367547075752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_228
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dc2e4800530c0d0800000000000000
+      internalID: -3404663041946366566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_229
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 109
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e694f24b515980800000000000000
+      internalID: -8551953874270361440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_230
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 109
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1938cd13c168229e0800000000000000
+      internalID: -1647607058010438767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_231
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 109
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751126a6517b6d400800000000000000
+      internalID: 348667323774800215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_232
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429b09ae4c0f04f0800000000000000
+      internalID: -860455471821385145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_233
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 87
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fbeef8b99291be0800000000000000
+      internalID: -1506126852267262065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_234
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 87
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46669b198c8eaa3a0800000000000000
+      internalID: -6653249551350536604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_235
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 87
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f664e24a3107b440800000000000000
+      internalID: 4951427665059145462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_236
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d604e6556ae86d0800000000000000
+      internalID: -2986266617047913179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_237
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6c9805f8e7cb8c0800000000000000
+      internalID: -3982168816505731379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_238
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 45
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e38be19b8685430800000000000000
+      internalID: 3771879832216419978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_239
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575c9e936f2c6d560800000000000000
+      internalID: 7338267005636167029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_240
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 45
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4e5934969ca74e0800000000000000
+      internalID: -1983051231960636168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_241
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 23
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7fa23fdcbc8df60800000000000000
+      internalID: 8059415618587916209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_242
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 23
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5493634a311168f0800000000000000
+      internalID: -549138737626114977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_243
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 23
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb3b714d6f89e310800000000000000
+      internalID: 1434835655707016137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Travellers Rest - Animals - Calico Cat_244
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 23
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a0ef4f6a6c0860800000000000000
+      internalID: 7497484505979070231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_0: -2981311025416437683
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_1: 3383071966262995423
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_10: 5117830224542466118
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_100: 2688933063416111811
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_101: 8199352097142671180
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_102: 2304507035500696626
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_103: 2669444415301074041
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_104: -1679039317434536250
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_105: 5160093381170334804
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_106: 8683102452128324127
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_107: 7266693505895545239
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_108: 6637800341529155097
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_109: -681326835565207036
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_11: 9063315527449599776
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_110: -5403136930516695102
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_111: 7719877796558684373
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_112: 7117937296878263971
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_113: 6627603257026646868
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_114: -8681475548701176300
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_115: -4108057730077458584
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_116: 3340782881789122842
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_117: 2569323554688294395
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_118: 744733228159040601
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_119: 5773321881178695780
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_12: -8828815744374293610
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_120: 6364748469394544680
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_121: 6372902669808347768
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_122: -1199701357512396526
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_123: -6746824919906615777
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_124: 8445658551091712658
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_125: 128173286313450463
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_126: 5914135969097872710
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_127: -3405511410364332163
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_128: 6694940406810387802
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_129: -3622670320994072650
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_13: 4862506526326675346
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_130: -5894233876245199194
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_131: -6766976149449222582
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_132: -1594339144791005264
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_133: 7152002259961610546
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_134: 4605288583395382421
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_135: 5733623370458235504
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_136: 5935464710865842656
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_137: -8404458646824684245
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_138: 1220669241551639295
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_139: -7610718946244956050
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_14: -354636414263952776
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_140: -4580713838450677440
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_141: -8747702820709829272
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_142: 156820472101773329
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_143: -399657573139914250
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_144: -4457972930386246391
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_145: -4761336434740409609
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_146: -5024286338938020291
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_147: 2141206756410781567
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_148: 6530391312971629869
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_149: -1799255769157744884
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_15: 4646526160243937599
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_150: 6462021773467464028
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_151: 8747754941453659413
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_152: 2477542383468815569
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_153: -8106050462253938027
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_154: 7890593326080059012
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_155: 3607481301565651274
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_156: -6418547035632828749
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_157: -179757822742173765
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_158: 3639566145164131566
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_159: 4521874721032446013
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_16: -1627501291496921452
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_160: -7741783260685684131
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_161: -8467774383750930715
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_162: -8553404694248501205
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_163: -2540448784823013914
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_164: 8919655204321624225
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_165: 6355514745324984227
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_166: 8248237769835898635
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_167: -4224419000546663358
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_168: 2750574407507406578
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_169: 7254550860357915970
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_17: -949115218982089147
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_170: -1318606887393135707
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_171: 3617686279722836611
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_172: -4923369632834938780
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_173: -2829882154816415159
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_174: -6895771439410115418
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_175: 5720118309646964671
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_176: -885637956611518624
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_177: -8737442111318934337
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_178: -8264314506144870167
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_179: 882822967759781220
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_18: -1000323769817497460
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_180: -9138178210039886320
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_181: -7453406057186160571
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_182: -225296381424690056
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_183: -7871785860449692988
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_184: -7162733533727165220
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_185: -7990535397071228321
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_186: 8065287217215652100
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_187: -829717218210935310
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_188: -2378316505997629203
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_189: 5997878503298582907
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_19: -6504207239019088087
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_190: 6384292022226399251
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_191: 1653107204770130492
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_192: 6599796017618913768
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_193: -2618811624121845433
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_194: 3933703848167952600
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_195: -3487131288309309418
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_196: 6642547758562291544
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_197: 6872803802783063369
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_198: -5523033343980293341
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_199: -7173655911272542609
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_2: -5616339179104948142
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_20: -7749020529229586552
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_200: 5198452007116524446
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_201: -274431992840059026
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_202: -6336581893770404385
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_203: 6084526384074501187
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_204: 3730047933771844632
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_205: -2969874529577365195
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_206: -1069264476086656859
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_207: 7122445303675006791
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_208: 7766799776690066733
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_209: -2857856545420192371
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_21: -3034098269699525756
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_210: 5344784774803213050
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_211: 5836342152104242402
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_212: -8518788212704647815
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_213: 5915447613141677168
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_214: -7549851979062960219
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_215: 7081900550765056792
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_216: -3241822682316885727
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_217: 4226334364319283291
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_218: 5055395109987412455
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_219: -3584681595402273813
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_22: -7814622141236088328
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_220: 2672747810991222509
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_221: -5326778686230280111
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_222: 4258982621852028320
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_223: -2369793110310806294
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_224: -1235626544078694839
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_225: 454430748746707546
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_226: -8208672572876274548
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_227: -3502561367547075752
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_228: -3404663041946366566
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_229: -8551953874270361440
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_23: -3968955003205639600
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_230: -1647607058010438767
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_231: 348667323774800215
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_232: -860455471821385145
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_233: -1506126852267262065
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_234: -6653249551350536604
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_235: 4951427665059145462
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_236: -2986266617047913179
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_237: -3982168816505731379
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_238: 3771879832216419978
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_239: 7338267005636167029
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_24: -4461375182266059252
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_240: -1983051231960636168
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_241: 8059415618587916209
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_242: -549138737626114977
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_243: 1434835655707016137
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_244: 7497484505979070231
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_25: 5215429555874189399
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_26: 1684450732294466443
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_27: 6605465261390430471
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_28: -6903064126857794032
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_29: 3573138265407401663
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_3: 7212631881783586486
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_30: -4512736826547930985
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_31: -3003169932214639116
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_32: 7124372031407439533
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_33: 3692019264912879251
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_34: 5207624211238507250
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_35: -4051167775648538984
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_36: 8352975441073878264
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_37: -3640497247060414183
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_38: -1508447552936659541
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_39: -1435678042368164064
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_4: -5193706949512031474
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_40: -2263827653244172352
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_41: -654766675134552616
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_42: 8210487616939622632
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_43: 3872153436099642326
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_44: 8965938829030784679
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_45: 2151680244182659995
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_46: 2163671774659447548
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_47: 228247230805497867
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_48: -481650159870376053
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_49: -1752439053082038884
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_5: 5499562228162649455
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_50: 1115793073393063882
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_51: 7028307081543004814
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_52: 3770377598975145406
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_53: 1885015393853603140
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_54: 2945986331566415090
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_55: -7688203232482367966
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_56: -861280462979970218
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_57: -3977727289863356686
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_58: -9093512327656426888
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_59: -1464871665757194405
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_6: 2352228177086480039
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_60: -891805548297961055
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_61: -2040470527961803017
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_62: -6238615358207518620
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_63: -6789500187594375344
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_64: 8350540429929267063
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_65: -6684790119122515935
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_66: 5353641017132513265
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_67: -4800028764786556994
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_68: 7790136565286071224
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_69: 4630379683268403362
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_7: -6165541977238223075
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_70: 894033511305913965
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_71: -4938924214077249127
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_72: -4712214060212373515
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_73: -8606099229648019345
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_74: 4603695571656294660
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_75: -5122042805455180524
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_76: 5316644371370083028
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_77: 7102603586878578154
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_78: -2189603531051385301
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_79: -585709323316887373
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_8: -433158840431659211
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_80: -668230531002306000
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_81: 8102317650873130248
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_82: -6943292784217588167
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_83: 1560157614311678306
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_84: 564797194794160028
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_85: -8406755635810457803
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_86: 2387019247872615003
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_87: 853962496657714455
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_88: -5309227553759233992
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_89: -4451904941893318210
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_9: 2187582473124161768
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_90: 6796974956850655928
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_91: 7343403896536051108
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_92: 1973823727726407317
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_93: 2579348576357739081
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_94: 1656981828890217355
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_95: -2669639387334801189
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_96: -7229129527396606889
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_97: 313320219160217400
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_98: -2796574417343135357
+      PC _ Computer - Travellers Rest - Animals - Calico Cat_99: -3106134081624902370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

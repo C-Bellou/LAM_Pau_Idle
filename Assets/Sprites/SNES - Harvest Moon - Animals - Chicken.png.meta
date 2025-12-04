@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 125b735dac723644ba22a1042326a4f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2806707119876074640
+    second: SNES - Harvest Moon - Animals - Chicken_0
+  - first:
+      213: -7062434575332712386
+    second: SNES - Harvest Moon - Animals - Chicken_1
+  - first:
+      213: 2824965271853833310
+    second: SNES - Harvest Moon - Animals - Chicken_2
+  - first:
+      213: 1783679189064847614
+    second: SNES - Harvest Moon - Animals - Chicken_3
+  - first:
+      213: 5784045214970868152
+    second: SNES - Harvest Moon - Animals - Chicken_4
+  - first:
+      213: 456993921476354668
+    second: SNES - Harvest Moon - Animals - Chicken_5
+  - first:
+      213: 6222497666746495145
+    second: SNES - Harvest Moon - Animals - Chicken_6
+  - first:
+      213: -5122607932844899564
+    second: SNES - Harvest Moon - Animals - Chicken_7
+  - first:
+      213: 5815275915659461647
+    second: SNES - Harvest Moon - Animals - Chicken_8
+  - first:
+      213: -8832056634385542617
+    second: SNES - Harvest Moon - Animals - Chicken_9
+  - first:
+      213: 4483691287676218094
+    second: SNES - Harvest Moon - Animals - Chicken_10
+  - first:
+      213: 382354747800632996
+    second: SNES - Harvest Moon - Animals - Chicken_11
+  - first:
+      213: -8549042274130523173
+    second: SNES - Harvest Moon - Animals - Chicken_12
+  - first:
+      213: -493144917410941424
+    second: SNES - Harvest Moon - Animals - Chicken_13
+  - first:
+      213: 6358356843662733992
+    second: SNES - Harvest Moon - Animals - Chicken_14
+  - first:
+      213: 6186500271607231174
+    second: SNES - Harvest Moon - Animals - Chicken_15
+  - first:
+      213: -6636022731833459299
+    second: SNES - Harvest Moon - Animals - Chicken_16
+  - first:
+      213: 6791066169789801892
+    second: SNES - Harvest Moon - Animals - Chicken_17
+  - first:
+      213: 3385708513149023288
+    second: SNES - Harvest Moon - Animals - Chicken_18
+  - first:
+      213: -5522655048759679834
+    second: SNES - Harvest Moon - Animals - Chicken_19
+  - first:
+      213: 3719715125054293416
+    second: SNES - Harvest Moon - Animals - Chicken_20
+  - first:
+      213: 2685876428993006519
+    second: SNES - Harvest Moon - Animals - Chicken_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce5c4414d63f620800000000000000
+      internalID: 2806707119876074640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306bdf0c213dfd90800000000000000
+      internalID: -7062434575332712386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c99ab82fa443720800000000000000
+      internalID: 2824965271853833310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef09779a5c6e0c810800000000000000
+      internalID: 1783679189064847614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 29
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f2235a7e054050800000000000000
+      internalID: 5784045214970868152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 30
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c626c12ec81975600800000000000000
+      internalID: 456993921476354668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 30
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a03f12e8a0ca5650800000000000000
+      internalID: 6222497666746495145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 29
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4138e2fc937d8e8b0800000000000000
+      internalID: -5122607932844899564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 32
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0444c772a204b050800000000000000
+      internalID: 5815275915659461647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225157094b3e6580800000000000000
+      internalID: -8832056634385542617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 32
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea64747875493e30800000000000000
+      internalID: 4483691287676218094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae37d80e956e4500800000000000000
+      internalID: 382354747800632996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb07a0b853bb5980800000000000000
+      internalID: -8549042274130523173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0167ee67f4ff729f0800000000000000
+      internalID: -493144917410941424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2f0bd7cdb6d3850800000000000000
+      internalID: 6358356843662733992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b104383ddad550800000000000000
+      internalID: 6186500271607231174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d36ab0c7c18e3a0800000000000000
+      internalID: -6636022731833459299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a56e7863b6be3e50800000000000000
+      internalID: 6791066169789801892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834734754f37cfe20800000000000000
+      internalID: 3385708513149023288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a469a15e769b53b0800000000000000
+      internalID: -5522655048759679834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a54286c2351f9330800000000000000
+      internalID: 3719715125054293416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Harvest Moon - Animals - Chicken_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb09bcb166264520800000000000000
+      internalID: 2685876428993006519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Harvest Moon - Animals - Chicken_0: 2806707119876074640
+      SNES - Harvest Moon - Animals - Chicken_1: -7062434575332712386
+      SNES - Harvest Moon - Animals - Chicken_10: 4483691287676218094
+      SNES - Harvest Moon - Animals - Chicken_11: 382354747800632996
+      SNES - Harvest Moon - Animals - Chicken_12: -8549042274130523173
+      SNES - Harvest Moon - Animals - Chicken_13: -493144917410941424
+      SNES - Harvest Moon - Animals - Chicken_14: 6358356843662733992
+      SNES - Harvest Moon - Animals - Chicken_15: 6186500271607231174
+      SNES - Harvest Moon - Animals - Chicken_16: -6636022731833459299
+      SNES - Harvest Moon - Animals - Chicken_17: 6791066169789801892
+      SNES - Harvest Moon - Animals - Chicken_18: 3385708513149023288
+      SNES - Harvest Moon - Animals - Chicken_19: -5522655048759679834
+      SNES - Harvest Moon - Animals - Chicken_2: 2824965271853833310
+      SNES - Harvest Moon - Animals - Chicken_20: 3719715125054293416
+      SNES - Harvest Moon - Animals - Chicken_21: 2685876428993006519
+      SNES - Harvest Moon - Animals - Chicken_3: 1783679189064847614
+      SNES - Harvest Moon - Animals - Chicken_4: 5784045214970868152
+      SNES - Harvest Moon - Animals - Chicken_5: 456993921476354668
+      SNES - Harvest Moon - Animals - Chicken_6: 6222497666746495145
+      SNES - Harvest Moon - Animals - Chicken_7: -5122607932844899564
+      SNES - Harvest Moon - Animals - Chicken_8: 5815275915659461647
+      SNES - Harvest Moon - Animals - Chicken_9: -8832056634385542617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

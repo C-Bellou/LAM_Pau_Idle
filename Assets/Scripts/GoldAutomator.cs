@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using TMPro;
 using Unity.Mathematics;
 using UnityEngine;
 
@@ -11,6 +12,8 @@ public class GoldAutomator : MonoBehaviour
     public int giver;
     public float time;
     private bool isCoroutineLaunched;
+    public TextMeshProUGUI priceText;
+    public TextMeshProUGUI countText;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -38,8 +41,10 @@ public class GoldAutomator : MonoBehaviour
             }
             goldA.goldAmount -= price;
             goldT.goldText.text = goldA.goldAmount.ToString("00");
-            time = time * 0.5f;
-            price = (int) MathF.Ceiling(price * 1.1f);
+            time = time * 0.9f;
+            price = (int) MathF.Ceiling(price * 1.5f);
+            priceText.text = $"{price} G";
+            countText.text = $"({giver}G/{time}s)";
         }
     }
     // Update is called once per frame

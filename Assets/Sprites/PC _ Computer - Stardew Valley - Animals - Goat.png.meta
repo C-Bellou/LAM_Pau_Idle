@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 5e67a14f02b47c04ea927ae5d4a1a73a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6336888223659272160
+    second: PC _ Computer - Stardew Valley - Animals - Goat_0
+  - first:
+      213: 8690307962209927908
+    second: PC _ Computer - Stardew Valley - Animals - Goat_1
+  - first:
+      213: 129681867567839740
+    second: PC _ Computer - Stardew Valley - Animals - Goat_2
+  - first:
+      213: -5415296043455965417
+    second: PC _ Computer - Stardew Valley - Animals - Goat_3
+  - first:
+      213: -4420932337229980108
+    second: PC _ Computer - Stardew Valley - Animals - Goat_4
+  - first:
+      213: -7024341562805886908
+    second: PC _ Computer - Stardew Valley - Animals - Goat_5
+  - first:
+      213: -6118824745088664817
+    second: PC _ Computer - Stardew Valley - Animals - Goat_6
+  - first:
+      213: 427375315155460587
+    second: PC _ Computer - Stardew Valley - Animals - Goat_7
+  - first:
+      213: 3986682583319323736
+    second: PC _ Computer - Stardew Valley - Animals - Goat_8
+  - first:
+      213: -6823003396551803521
+    second: PC _ Computer - Stardew Valley - Animals - Goat_9
+  - first:
+      213: -6926995963297472940
+    second: PC _ Computer - Stardew Valley - Animals - Goat_10
+  - first:
+      213: 6147704082391653391
+    second: PC _ Computer - Stardew Valley - Animals - Goat_11
+  - first:
+      213: 6335811615588142748
+    second: PC _ Computer - Stardew Valley - Animals - Goat_12
+  - first:
+      213: 6057360269822086480
+    second: PC _ Computer - Stardew Valley - Animals - Goat_13
+  - first:
+      213: -5292235162169263216
+    second: PC _ Computer - Stardew Valley - Animals - Goat_14
+  - first:
+      213: 5157477107347893827
+    second: PC _ Computer - Stardew Valley - Animals - Goat_15
+  - first:
+      213: 3618729810984916298
+    second: PC _ Computer - Stardew Valley - Animals - Goat_16
+  - first:
+      213: 7271705035585030584
+    second: PC _ Computer - Stardew Valley - Animals - Goat_17
+  - first:
+      213: -4514289396165213155
+    second: PC _ Computer - Stardew Valley - Animals - Goat_18
+  - first:
+      213: 3118711267407773814
+    second: PC _ Computer - Stardew Valley - Animals - Goat_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 127
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028de6f1cb9de08a0800000000000000
+      internalID: -6336888223659272160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e285446c0d2a9870800000000000000
+      internalID: 8690307962209927908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b032b8f8bcc100800000000000000
+      internalID: 129681867567839740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179a30a0f009d4b0800000000000000
+      internalID: -5415296043455965417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e9e5f5671b5a2c0800000000000000
+      internalID: -4420932337229980108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44061ffa096848e90800000000000000
+      internalID: -7024341562805886908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bbe123051951ba0800000000000000
+      internalID: -6118824745088664817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1ac95b5975ee500800000000000000
+      internalID: 427375315155460587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542cfaefaa835730800000000000000
+      internalID: 3986682583319323736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 63
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dfe378f82df41a0800000000000000
+      internalID: -6823003396551803521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ed6174fdd5edf90800000000000000
+      internalID: -6926995963297472940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c5c2f7a48015550800000000000000
+      internalID: 6147704082391653391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ecce688135de750800000000000000
+      internalID: 6335811615588142748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4f477211101450800000000000000
+      internalID: 6057360269822086480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 31
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bb113d8243e86b0800000000000000
+      internalID: -5292235162169263216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e2ea88a1a039740800000000000000
+      internalID: 5157477107347893827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a455fd9179f483230800000000000000
+      internalID: 3618729810984916298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b90775e3394ae460800000000000000
+      internalID: 7271705035585030584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14824046b50a51c0800000000000000
+      internalID: -4514289396165213155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Stardew Valley - Animals - Goat_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67049d2cf53e74b20800000000000000
+      internalID: 3118711267407773814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Stardew Valley - Animals - Goat_0: -6336888223659272160
+      PC _ Computer - Stardew Valley - Animals - Goat_1: 8690307962209927908
+      PC _ Computer - Stardew Valley - Animals - Goat_10: -6926995963297472940
+      PC _ Computer - Stardew Valley - Animals - Goat_11: 6147704082391653391
+      PC _ Computer - Stardew Valley - Animals - Goat_12: 6335811615588142748
+      PC _ Computer - Stardew Valley - Animals - Goat_13: 6057360269822086480
+      PC _ Computer - Stardew Valley - Animals - Goat_14: -5292235162169263216
+      PC _ Computer - Stardew Valley - Animals - Goat_15: 5157477107347893827
+      PC _ Computer - Stardew Valley - Animals - Goat_16: 3618729810984916298
+      PC _ Computer - Stardew Valley - Animals - Goat_17: 7271705035585030584
+      PC _ Computer - Stardew Valley - Animals - Goat_18: -4514289396165213155
+      PC _ Computer - Stardew Valley - Animals - Goat_19: 3118711267407773814
+      PC _ Computer - Stardew Valley - Animals - Goat_2: 129681867567839740
+      PC _ Computer - Stardew Valley - Animals - Goat_3: -5415296043455965417
+      PC _ Computer - Stardew Valley - Animals - Goat_4: -4420932337229980108
+      PC _ Computer - Stardew Valley - Animals - Goat_5: -7024341562805886908
+      PC _ Computer - Stardew Valley - Animals - Goat_6: -6118824745088664817
+      PC _ Computer - Stardew Valley - Animals - Goat_7: 427375315155460587
+      PC _ Computer - Stardew Valley - Animals - Goat_8: 3986682583319323736
+      PC _ Computer - Stardew Valley - Animals - Goat_9: -6823003396551803521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

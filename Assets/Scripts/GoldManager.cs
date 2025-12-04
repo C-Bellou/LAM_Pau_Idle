@@ -30,7 +30,7 @@ public class GoldManager : MonoBehaviour
         if (goldAmount > powerAmount)
         {
             goldAmount -= powerAmount;
-            powerAmount = (int) MathF.Ceiling(powerAmount * 1.2f);
+            powerAmount = (int) MathF.Ceiling(powerAmount * 1.5f);
             goldText.text = goldAmount.ToString("00");
             powerAText.text = $"Upgrade for {powerAmount} G";
             powerText.text = power.ToString("00");
@@ -40,6 +40,6 @@ public class GoldManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        goldText.text = goldAmount.ToString("00");
     }
 }
