@@ -20,3 +20,5 @@ restée au stade expérimental.
 Mon ambition initiale était de proposer une expérience multi-environnements avec différents
 types de zoos. Cependant, pour garantir la stabilité des mécaniques de base, ce système de
 biomes multiples a été mis de côté.
+
+test
